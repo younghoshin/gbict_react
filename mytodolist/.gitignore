@@ -10,10 +10,10 @@
 
 # production
 /build
-../calculator/*
-../ch01/*
-../hock2/*
-../mycounter/*
+../../calculator/*
+../../ch01/*
+../../hock2/*
+../../mycounter/*
 
 # misc
 .DS_Store
